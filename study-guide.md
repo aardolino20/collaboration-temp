@@ -3,7 +3,7 @@
 Git commands
 - add: stages changes in file specified, use "add ." to stage all changes
 - commit: TODO
-- log: TODO
+- log: Shows history of the repository
 - status: TODO
 - branch: TODO
 - checkout: TODO
