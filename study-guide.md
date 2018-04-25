@@ -7,7 +7,7 @@ Git commands
 - status: TODO
 - branch: TODO
 - checkout: TODO
-- push: TODO
+- push: updates remote repositories
 - pull: TODO
 - merge: TODO
 - fetch: Creates a temporary "branch" with all new commits from the specified remote repository
