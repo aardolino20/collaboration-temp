@@ -1,7 +1,7 @@
 # Study Guide
 
 Git commands
-- add: TODO
+- add: stages changes in file specified, use "add ." to stage all changes
 - commit: TODO
 - log: TODO
 - status: TODO
